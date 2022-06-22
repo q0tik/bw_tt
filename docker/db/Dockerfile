@@ -1,0 +1,4 @@
+FROM postgres
+ENV POSTGRES_DB black_wall
+ENV POSTGRES_USER black_wall_user
+ENV POSTGRES_PASSWORD black_wall_pwd
